@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons, humbly offered to the honourable house of commons, for bringing in a bill, for registring all bills of sale of ships, and vessels of burden, in a general register book, with some objections answered.</title>
+            <author>Baxter, Simon.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17570</idno><idno type="EEBO-CITATION">99885621</idno>
+  <idno type="VID">185438</idno>
+  <idno type="EEBO-PROQUEST">2240886662</idno>
+  
+            <idno type="STC">Wing B1456</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[115]</idno>
+            <idno type="STC">ESTC R224730</idno>
+            <idno type="PROQUEST">ocm99885621</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885621e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185438)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[114])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons, humbly offered to the honourable house of commons, for bringing in a bill, for registring all bills of sale of ships, and vessels of burden, in a general register book, with some objections answered.</title>
+                  <author>Baxter, Simon.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ships --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="reasons">
+            <pb facs="tcp:185438:1"/>
+            <head>REASONS, Humbly Offered to the HONOURABLE <hi rend="blackletterType">House of Commons,</hi> FOR bringing in a <hi>BILL,</hi> for <hi>Registring</hi> all <hi>Bills</hi> of <hi>Sale</hi> of Ships, and Ves<g ref="char:EOLhyphen"/>sels of Burden, in a <hi>General Register Book,</hi> with some <hi>Objections</hi> answered.</head>
+            <p n="1">1. FOR want of a <hi>General Register Book,</hi> no Person, buying a Ship, or part of a Ship, can be sure of a <hi>Good Title;</hi> but must wholly rely on the <hi>Honesty</hi> of the <hi>Seller.</hi>
+            </p>
+            <p n="2">2. ANY Person, having in himself the <hi>Title</hi> to a whole Ship, may (if he designs to Cheat) sell <hi>Twenty,</hi> or <hi>Thirty,</hi> Sixteenth Parts thereof, and thereby <hi>Cheat</hi> several Persons, and not be soon Discovered: And that such <hi>Cheats</hi> have been often <hi>Acted,</hi> many Eminent <hi>Merchants,</hi> and <hi>Trades-Men,</hi> in <hi>London,</hi> can Testify.</p>
+            <p n="3">3. SUCH <hi>Cheats,</hi> occasion <hi>Disputes,</hi> amongst the <hi>Owners</hi> of Ships, about their <hi>Titles;</hi> And thereupon, many Ships are Stop't from their intended <hi>Voy<g ref="char:EOLhyphen"/>ages,</hi> and lye, and Rot before such <hi>Disputes,</hi> are ended.</p>
+            <p n="4">4. THESE <hi>Discouragements,</hi> and others, that proceed from them, make all <hi>Merchants;</hi> and other <hi>Persons,</hi> who have had the <hi>Experience</hi> thereof, (as much as possible they can) avoid being <hi>Owners</hi> of Ships; And rather chuse to <hi>Hire</hi> Ships to carry their <hi>Goods,</hi> than to <hi>Buy,</hi> or <hi>Build.</hi>
+            </p>
+            <p n="5">5. THE <hi>Hireing</hi> of Ships by <hi>Merchants,</hi> and not being <hi>Owners</hi> thereof, often proves very <hi>Prejudicial</hi> to them; For they cannot be so <hi>Truly,</hi> and <hi>Heartily Served</hi> by the <hi>Masters</hi> of such Hired Ships, (who often prefer the <hi>Good</hi> of their <hi>Owners</hi> before the <hi>Merchants Interest</hi>) as they would be by <hi>Masters</hi> of their Own Ships. And, by this Means, many <hi>Disputes,</hi> and <hi>Controversies,</hi> happen between the <hi>Owners,</hi> and <hi>Freighters,</hi> of such <hi>Hired</hi> Ships: All which <hi>Incon<g ref="char:EOLhyphen"/>veniencies,</hi> and <hi>Cheats,</hi> aforesaid, are great <hi>Discouragements</hi> of <hi>Trade</hi> and <hi>Merchandize.</hi>
+            </p>
+            <p n="6">6. A <hi>General Register Book,</hi> will manifest every Man's <hi>Title</hi> to a Ship; and will <hi>Discover,</hi> and <hi>Prevent</hi> the <hi>Cheats,</hi> aforesaid: It will <hi>Encourage</hi> the <hi>Building</hi> and <hi>Buying</hi> of Ships; and consequently Advance <hi>Trade</hi> and <hi>Merchandize;</hi> and is much desired by many of the most Eminent Merchants in <hi>London,</hi> who have subscribed a <hi>Petition</hi> to this Honourable House, to bring in a <hi>Bill</hi> for that purpose.</p>
+            <p>Obj. 1st. <hi>ANY Merchant, or other Person, who is Owner of a Ship, may have oc<g ref="char:EOLhyphen"/>casion to borrow Money, and to make a Bill of Sale of such Ship, or part thereof, to the Lender, for his security of Re-payment; and such Borrow<g ref="char:EOLhyphen"/>ers Occasions ought not to be known by all Persons, that will search the Register Book.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> SHIPPING is generally the least part of every Man's Estate, and therefore very few Mortgages are made of Ships, or parts of Ships: But when any are made, a General <hi>Register Book</hi> will be a Security to the Lender, and an Advantage to the Borrower; for it will encourage the Lender to lend his Money at easy Rates: And as for the Borrowers Occasions being known, it is more Reasonable one Man should suffer a small Inconvenience, than that Twenty should be Cheated.</p>
+            <p>Obj. 2d. <hi>A General Register Book will be a Charge and Trouble to the Subject, and not answer the End pretended,</hi> (viz.) <hi>to discover and prevent the Cheats, aforesaid.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> SUCH <hi>Register Book</hi> may be Managed for a very small Charge, and without any Trouble to the Subject; and will Discover, and Prevent all such Cheats, as aforesaid, as will appear by some Heads of a <hi>Bill,</hi> drawn up for that purpose, and ready to be presented to this Honourable House, By</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Simon Baxter,</item>
+                     <item>Lewis Davis,</item>
+                     <item>Thomas Taylor.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
